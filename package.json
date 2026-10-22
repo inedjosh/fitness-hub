@@ -1,0 +1,12 @@
+{
+  "name": "northside-fitness-hub",
+  "version": "1.0.0",
+  "description": "Events & Updates page for Northside Fitness Hub",
+  "private": true,
+  "scripts": {
+    "start": "serve -l 8080 ."
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}

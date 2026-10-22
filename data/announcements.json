@@ -1,0 +1,16 @@
+{
+  "announcements": [
+    {
+      "title": "New sauna now open!",
+      "message": "The refurbished sauna on level 2 is ready for members."
+    },
+    {
+      "title": "Holiday hours:",
+      "message": "We close at 2 PM on 24 December and reopen 27 December."
+    },
+    {
+      "title": "Bring a friend week",
+      "message": "Members can bring a guest free from 3–9 November."
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Sunrise Vinyasa Yoga",
+    "date": "2026-11-02",
+    "time": "6:30 AM – 7:30 AM",
+    "description": "A flowing morning practice to wake up the body and focus the mind.",
+    "location": { "name": "Studio A", "room": "Room 101" }
+  },
+  {
+    "id": 2,
+    "title": "HIIT Express",
+    "date": "2026-11-03",
+    "time": "12:15 PM – 12:55 PM",
+    "description": "Forty minutes of high-intensity intervals built for your lunch break.",
+    "location": { "name": "Main Floor", "room": "Zone B" }
+  },
+  {
+    "id": 3,
+    "title": "Beginner Strength Workshop",
+    "date": "2026-11-05",
+    "time": "6:00 PM – 7:30 PM",
+    "description": "Learn the fundamentals of squats, deadlifts and presses with a coach.",
+    "location": { "name": "Weights Room", "room": "Room 204" }
+  },
+  {
+    "id": 4,
+    "title": "Spin & Burn",
+    "date": "2026-11-07",
+    "time": "9:00 AM – 9:45 AM",
+    "description": "Rhythm-driven indoor cycling with hill climbs and sprint finishes.",
+    "location": { "name": "Cycle Studio", "room": "Room 110" }
+  },
+  {
+    "id": 5,
+    "title": "Mobility & Recovery Clinic",
+    "date": "2026-11-09",
+    "time": "5:30 PM – 6:30 PM",
+    "description": "Foam rolling and guided stretching to keep you moving well."
+  },
+  {
+    "id": 6,
+    "title": "Nutrition Basics Talk",
+    "date": "2026-11-12",
+    "time": "7:00 PM – 8:00 PM",
+    "description": "A dietitian covers meal planning, protein and fuelling for training.",
+    "location": { "name": "Community Lounge", "room": "Room 301" }
+  },
+  {
+    "id": 7,
+    "title": "Boxing Fundamentals",
+    "date": "2026-11-14",
+    "time": "10:00 AM – 11:00 AM",
+    "description": "Footwork, combinations and bag work in a friendly beginner setting.",
+    "location": { "name": "Studio B", "room": "Room 102" }
+  },
+  {
+    "id": 8,
+    "title": "Family Swim & Play",
+    "date": "2026-11-15",
+    "time": "2:00 PM – 3:30 PM",
+    "description": "An open pool session for families with inflatables and shallow-end games.",
+    "location": { "name": "Aquatic Centre", "room": "Pool 1" }
+  }
+]
